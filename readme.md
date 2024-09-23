@@ -1,6 +1,6 @@
-# Assignment 1 
+# Assignment 2 
 ## Mihir Kalyanthaya
-### Python 
+### Python Assignment 1
 print("Hello, Data Science!")
 
 total_sum=0
