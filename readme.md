@@ -28,4 +28,4 @@ PS C:\Users\mihir> move "C:\Users\mihir\OneDrive\Desktop\DataSci217\hello_ds.py"
 https://www.python.org 
 
 ### Screenshot pip install
-![pip install screenshot]("C:\Users\mihir\OneDrive\Desktop\Screenshot 2024-09-23 114347.png")
+!("C:\Users\mihir\OneDrive\Desktop\pip Install.png")
