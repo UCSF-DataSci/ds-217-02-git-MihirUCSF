@@ -28,6 +28,9 @@ PS C:\Users\mihir> move "C:\Users\mihir\OneDrive\Desktop\DataSci217\hello_ds.py"
 https://www.python.org 
 
 ### Screenshot pip install
-![screenshot](C:\Users\mihir\OneDrive\Desktop\pip Install.png)
+![pip Install](https://github.com/user-attachments/assets/214052eb-495a-444a-8fc4-ccbfed12119f)
+
 ### Internet image
-!("C:\Users\mihir\OneDrive\Desktop\cat1.jpg")
+![cat1](https://github.com/user-attachments/assets/d10441e6-4c12-456c-aeb3-9fbea53fe22f)
+
+
